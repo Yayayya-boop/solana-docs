@@ -15,9 +15,9 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-rc.1",
+    "@docusaurus/core": "2.0.1",
     "@docusaurus/plugin-client-redirects": "2.0.0-rc.1",
-    "@docusaurus/preset-classic": "2.0.0-rc.1",
+    "@docusaurus/preset-classic": "2.0.1",
     "@lidofinance/solido-sdk-banner": "^0.1.1-alpha.0",
     "@mdx-js/react": "^1.6.21",
     "@svgr/webpack": "^5.5.0",
@@ -26,7 +26,7 @@
     "file-loader": "^6.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "rehype-katex": "^5.0.0",
+    "rehype-katex": "^6.0.3",
     "remark-math": "^3.0.1",
     "styled-components": "^5.3.5",
     "url-loader": "^4.1.1"
